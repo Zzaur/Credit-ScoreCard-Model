@@ -1,0 +1,4 @@
+Functions: prepare_dataset, handle_missing_values, treat_outliers
+Functions: calculate_woe_iv, calculate_iv_all_features, check_correlation
+Functions: split_data, build_logistic_model, convert_to_scorecard
+Functions: evaluate_model_performance, calculate_psi, plot_default_probability_analysis
